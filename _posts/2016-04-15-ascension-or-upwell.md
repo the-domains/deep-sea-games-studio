@@ -1,24 +1,25 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Mobile arcade game.
-datePublished: '2016-04-15T21:34:26.381Z'
-dateModified: '2016-04-15T21:33:58.726Z'
+datePublished: '2016-04-15T21:44:44.817Z'
+dateModified: '2016-04-15T21:43:38.830Z'
 title: 'Ascension | Upwell'
 author: []
+sourcePath: _posts/2016-04-15-ascension-or-upwell.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-ascension-or-upwell.md
-published: true
-_type: Blurb
+url: ascension-or-upwell/index.html
+_type: WebPage
 
 ---
 Mobile arcade game.
