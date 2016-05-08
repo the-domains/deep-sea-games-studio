@@ -4,20 +4,21 @@
         <description><![CDATA[Deep Sea Games Studio]]></description>
         <link>https://thegrid.ai/deep-sea-games-studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 19:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 19:44:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/deep-sea-games-studio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>It's been a whole while since the last tweet. Time flies so fast. Right now we're working on Hyperspace mechanic for 'Fly, UFO'. #gamedev</p>]]></description>
+            <link>https://twitter.com/DeepSeaGames/status/717808125148065793</link>
+            <guid isPermaLink="false">142f98fe-b8d1-4a9f-99e2-18e5a8c21860</guid>
+            <pubDate>Sun, 08 May 2016 19:44:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fly, UFO! Fly!]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6353c31b-44b9-4aaa-acd5-35e6331fb1ea.gif">]]></description>
             <link>https://thegrid.ai/deep-sea-games-studio/fly-ufo-fly/index.html</link>
             <guid isPermaLink="false">b86c6110-647e-4ed2-b88c-769f1249e3f5</guid>
             <pubDate>Mon, 18 Apr 2016 11:49:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://twitter.com/DeepSeaGames/status/717808125148065793</link>
-            <guid isPermaLink="false">142f98fe-b8d1-4a9f-99e2-18e5a8c21860</guid>
-            <pubDate>Wed, 20 Apr 2016 19:37:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
