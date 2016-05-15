@@ -3,21 +3,20 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
 keywords: []
 description: Mobile arcade game.
-datePublished: '2016-04-18T11:49:47.718Z'
-dateModified: '2016-04-18T11:46:18.672Z'
+datePublished: '2016-05-15T19:16:39.617Z'
+dateModified: '2016-05-15T19:16:38.670Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-15-fly-ufo-fly.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+starred: true
 url: fly-ufo-fly/index.html
 _type: Article
 
