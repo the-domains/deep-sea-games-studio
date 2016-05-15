@@ -1,6 +1,6 @@
 name: Deep Sea Games Studio
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.26249
 typography_spectrum: 0.2528
 title: Deep Sea Games Studio
 cta:
@@ -23,7 +23,7 @@ color:
     - '#03579b'
     - '#b3e4fb'
   brandStrength: 1
-  lightness: 0.1875
-  saturation: 0
-  rhythmicContrast: 0
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
